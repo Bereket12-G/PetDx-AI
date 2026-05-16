@@ -18,7 +18,8 @@ Instant health insights
 
 User-friendly interface
 
-Designed for dogs and cats
+Easily extendable with new symptom/disease data.
+
 
 
 ⚙️ Tech Stack
@@ -27,7 +28,7 @@ AI / Machine Learning
 
 Natural Language Processing (NLP)
 
-(Add your tools here: e.g., Python, APIs, etc.)
+(Scikit-learn, APIs, OpenAI, Joblib for model serialization etc.)
 
 
 📌 Usage
@@ -49,3 +50,52 @@ This tool is for informational purposes only and does not replace professional v
 🌍 Vision
 
 To make pet healthcare knowledge more accessible using AI, helping pet owners make faster and more informed decisions.
+
+
+
+📦 Installation
+Create a virtual environment (optional but recommended):
+
+
+
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+Install dependencies:
+
+
+
+pip install -r requirements.txt
+📁 Files to Track in Git
+Make sure your .gitignore excludes the following:
+
+Lib/, Scripts/, Include/ (system folders inside virtual environments)
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+Any .exe or large binary auto-generated files
+
+🔮 Future Improvements
+Integrate deep learning for complex symptom patterns
+
+Expand symptom-disease dataset
+
+Web-based interface for non-technical users
+
+Confidence score in predictions
+
+👩‍🔬 Maintained By
+Bereket Gezhagne 
+Aspiring Software Developer | AI/ML/NLP Enthusiast | Project @ Bereket 
+
+⭐ If you like this project, give it a star!
+
+
+
+
+
+
+
+
+
