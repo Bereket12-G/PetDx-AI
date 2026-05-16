@@ -47,10 +47,6 @@ Natural Language Processing (NLP)
 
 This tool is for informational purposes only and does not replace professional veterinary advice, diagnosis, or treatment.
 
-🌍 Vision
-
-To make pet healthcare knowledge more accessible using AI, helping pet owners make faster and more informed decisions.
-
 
 
 📦 Installation
